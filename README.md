@@ -8,3 +8,4 @@ Chi tiết báo cáo được trình bày trong slide.
 ## Data
 Data được cung cấp từ 2 nguồn là excel và sql, sau đó được tổng hợp lại rồi phân tích. 
 Chi tiết thông tin dữ liệu được nêu trong KPIM Datathon Information và KPIM Ecommerce Data Dictionary.
+
